@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+
+jupyterlab
+ipywidgets
+tqdm
+tabulate
+
+pyarrow
+
+black
+jupyterlab-code-formatter

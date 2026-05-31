@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment Variables / Secrets
+.env
+.env.local
+
+# Data
+work/data/*
+!work/data/raw/
+!work/data/processed/
+!work/data/raw/.gitkeep
+!work/data/processed/.gitkeep
+
+# Models
+work/models/*
+!work/models/.gitkeep
+
+# Outputs
+work/outputs/*
+!work/outputs/.gitkeep
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.swp
