@@ -5,6 +5,11 @@ seaborn
 scipy
 scikit-learn
 
+opencv-python
+Pillow
+scikit-image
+imageio
+
 jupyterlab
 ipywidgets
 tqdm
