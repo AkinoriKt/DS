@@ -1,14 +1,19 @@
 numpy
 pandas
-matplotlib
-seaborn
 scipy
 scikit-learn
+
+matplotlib
+seaborn
 
 opencv-python
 Pillow
 scikit-image
 imageio
+
+nibabel
+SimpleITK
+pydicom
 
 jupyterlab
 ipywidgets
